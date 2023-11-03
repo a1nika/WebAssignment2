@@ -3,5 +3,8 @@
 *{
     margin: 0;
     padding: 0;
-    box
+    background-image: url(7.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
